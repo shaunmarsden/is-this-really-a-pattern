@@ -11,7 +11,7 @@ Review a log of similar-sounding instances, complaints, feedback, incidents, and
 
 The same word can hide two different problems, and two different descriptions can hide the same problem. A recurring issue log gets this wrong in both directions: merging things that only sound alike, and missing a real pattern because it was described differently each time.
 
-![A two by two grid showing when repeated wording is a genuine pattern and when it is misleading.](assets/diagrams/02-is-this-really-a-pattern.svg)
+[![A two by two grid showing when repeated wording is a genuine pattern and when it is misleading.](assets/diagrams/02-is-this-really-a-pattern.svg)](SKILL.md)
 
 ## Use It
 
