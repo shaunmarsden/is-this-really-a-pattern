@@ -32,7 +32,14 @@ Count both occurrences and distinct instances. Do not let two entries from one i
 
 ## Judge Each Pattern
 
-For every candidate, show the entries supporting it, evidence the cause is the same or different, evidence against the pattern, and a confidence level specific to that finding: low, medium, or high, explained rather than reduced to a fixed number. Sample size, distinct instances, and consistency of the cause all matter.
+For every candidate, show:
+
+- The entries supporting it
+- Evidence the cause is the same or different across them
+- Evidence against the pattern
+- A confidence level specific to that finding: low, medium, or high, explained rather than reduced to a fixed number
+
+Sample size, distinct instances, and consistency of the cause all matter.
 
 ## Apply the Guardrails
 
