@@ -50,4 +50,4 @@ If the cause is unknown across most entries, report the missing diagnosis work i
 
 A person checks the diagnoses, decides whether a finding actually matters, and approves any resulting fix or process change.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank template](templates/pattern-review-template.md) for your own log.
+For a fictional worked example, read [the worked example](example/). For the harder case, repeat complaints miscounted as separate instances, a log with no diagnosed causes at all, and a percentage request the sample cannot support, read [the second worked example](example-two/). Use [the blank template](templates/pattern-review-template.md) for your own log, and [the review checklist](checks/checklist.md) before acting on any finding.
