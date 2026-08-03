@@ -42,10 +42,6 @@ No installation, project, or coding required to try it once.
 
 This reviews the log; it does not decide anything. Whether a finding is worth acting on, and any resulting fix or process change, stays your own call.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it on a real log? [Start a discussion](https://github.com/shaunmarsden/is-this-really-a-pattern/discussions) if a grouping did not fit.
