@@ -5,7 +5,7 @@ description: Review a log of similar-sounding instances, complaints, feedback, i
 
 # Is This Really a Pattern?
 
-You do not need to install anything to try this once: copy this whole file, paste it as your first message in any AI chat tool, then paste in your log.
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then paste in your log.
 
 Find what genuinely recurs across a log without turning a repeated phrase into a made-up root cause. The same words can hide different causes, and different words can describe the same cause.
 
