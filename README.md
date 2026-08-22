@@ -13,6 +13,8 @@ The same word can hide two different problems, and two different descriptions ca
 
 [![A two by two grid showing when repeated wording is a genuine pattern and when it is misleading.](assets/diagrams/02-is-this-really-a-pattern.svg)](SKILL.md)
 
+**Not what you need?** This looks for a genuine repeated cause across many similar entries in one log. If you have exactly two independently-kept records that are each supposed to reflect the same thing, [Do These Actually Match?](https://github.com/shaunmarsden/do-these-actually-match) is the closer fit.
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in your log. It produces:
