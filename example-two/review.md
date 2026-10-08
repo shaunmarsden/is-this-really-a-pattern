@@ -13,6 +13,8 @@ It declined the percentage request and said why. A five-ticket sample, with thre
 ## What Still Needs a Human Check
 
 - Dana's repeated ticket needs a proper investigation, not another closure with no cause recorded.
+- The output writes out "60%" as an example of what not to report. Check nobody copies that figure into the monthly report.
+- The output gives no evidence against any candidate, and no low, medium or high confidence, which the skill asks for on each one. It uses "isolated signal" instead.
 - Once future tickets have diagnosed causes, it's worth reviewing this log again.
 
 ## Verdict

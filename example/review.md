@@ -10,13 +10,14 @@ It grouped different wording behind the same cause. Entries 1 and 3 use very dif
 
 It called an isolated signal an isolated signal. Entry 2 (meeting load) and entry 4 (local environment) are both real, single instances. The output didn't inflate either into a pattern. It used the phrase "isolated signal" rather than making a one-off sound more established.
 
-It gave no percentage from a four-entry sample. The output used counts and a plain confidence level (medium), not a rate that a sample this size can't support.
+It gave no percentage from a four-entry sample. The output used counts and a plain confidence level (medium) for the one pattern, not a rate that a sample this size can't support.
 
 ## What Still Needs a Human Check
 
 - Whether the suggested escalation rule is the right fix is for the team to decide. This review can't settle it.
-- If Priya raises meeting load again next sprint, check it again. Two instances would move it from isolated signal to a real candidate pattern.
+- The output shows no evidence against the pattern, which the skill asks for on every candidate. The two isolated signals get no low, medium or high confidence either.
+- If someone other than Priya raises meeting load, check it again. Priya raising it again would add an occurrence, not a second distinct instance.
 
 ## Verdict
 
-No automatic failure. The review didn't merge on wording, which would have missed the real difference between two issues. It also caught a same-cause pattern behind two very differently worded complaints.
+No automatic failure. The output didn't merge on wording, which would have missed the real difference between two issues. It also caught a same-cause pattern behind two very differently worded complaints.
