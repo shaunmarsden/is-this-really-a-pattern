@@ -9,7 +9,7 @@ Review a log of similar-sounding entries, such as complaints, feedback or incide
 
 ## Why
 
-The same word can hide two different problems, and two different descriptions can hide the same one. Issue logs get this wrong both ways. They merge things that only sound alike, and they miss a real pattern because people described it differently each time.
+The same word can hide two different problems, and two different descriptions can hide the same one. Issue logs often get this wrong both ways. They merge things that only sound alike, and they miss a real pattern because people described it differently each time.
 
 [![A two by two grid showing when repeated wording is a genuine pattern and when it is misleading.](assets/diagrams/02-is-this-really-a-pattern.svg)](SKILL.md)
 

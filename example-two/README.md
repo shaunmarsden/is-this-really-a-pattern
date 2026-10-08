@@ -5,3 +5,5 @@ The first [example](../example/) tests the same word with different causes, and 
 - [log.md](log.md): a fictional month of support tickets for a small software product
 - [output.md](output.md): the review, which counts the repeat complainer as one instance, refuses to invent causes for undiagnosed tickets and declines to give a percentage
 - [review.md](review.md): whether it caught all three traps
+
+The repository doesn't record which model wrote this output, or whether it knew what the test was checking. Read it as an illustration of what a good run looks like, not as a logged run.
