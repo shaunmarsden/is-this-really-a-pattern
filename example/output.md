@@ -24,7 +24,7 @@ Four entries across four sprints, each from a different team member, so instance
 
 ## Isolated Signals, Not Yet Patterns
 
-- Priya's meeting-load concern (entry 2): only one instance so far, worth watching, not yet a pattern
+- Cressida's meeting-load concern (entry 2): only one instance so far, worth watching, not yet a pattern
 - Jordan's local environment issue (entry 4): a one-off, resolved same day, no recurrence noted
 
 ## Suggested Actions for Human Approval
