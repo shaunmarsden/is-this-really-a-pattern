@@ -16,7 +16,7 @@ It gave no percentage from a four-entry sample. The output used counts and a pla
 
 - Whether the suggested escalation rule is the right fix is for the team to decide. This review can't settle it.
 - The output shows no evidence against the pattern, which the skill asks for on every candidate. The two isolated signals get no low, medium or high confidence either.
-- If someone other than Priya raises meeting load, check it again. Priya raising it again would add an occurrence, not a second distinct instance.
+- If someone other than Cressida raises meeting load, check it again. Cressida raising it again would add an occurrence, not a second distinct instance.
 
 ## Verdict
 
