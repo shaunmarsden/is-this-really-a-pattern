@@ -1,9 +1,9 @@
 # Worked Example Two: Repeat Complainers, Unknown Causes, and a Requested Percentage
 
-The first [example](../example/) tests the same word with different causes, and different words with the same cause. This one tests three other traps. One customer files the same complaint several times, which can look like several instances. Most of the log has no diagnosed cause. And someone asks to turn a small sample into a percentage.
+The first [example](../example/) illustrates the same word with different causes, and different words with the same cause. This one adds repeat complaints from one customer, no recorded diagnoses and a request for a percentage.
 
-- [log.md](log.md): a fictional month of support tickets for a small software product
-- [output.md](output.md): the review, which counts the repeat complainer as one instance, refuses to invent causes for undiagnosed tickets and declines to give a percentage
-- [review.md](review.md): whether it caught all three traps
+- [Read the source log](log.md): five fictional support tickets
+- [Read the saved output](output.md): a review that groups the repeat complaints and declines the percentage request
+- [Read what held up and what did not](review.md): counting limits, unsupported investigation claims and the percentage distinction
 
-The repository doesn't record which model wrote this output, or whether it knew what the test was checking. Read it as an illustration of what a good run looks like, not as a logged run.
+The repository doesn't record which model wrote this output, the exact run instructions or settings, or whether it knew the intended answer. Read it as an illustration with limitations, not as a logged model test.
