@@ -1,6 +1,6 @@
 # Pattern Rule Comparisons
 
-**Status: NOT RUN.** This is a prepared test packet, not a completed result. No live instruction or template change is justified by preparing it.
+**Status: Compared once on 17th November 2026.** Read the [results and limits](../../evaluations/pattern-comparison-2026-11-17/README.md). Neither candidate met the adoption rule; the live files are unchanged. The manifest's NOT RUN status is the preserved preparation record, not the completion status.
 
 Start with the [comparison plan](plan.md). The [cases](cases.json) are synthetic. The [answer key](answer-key.json) and plan are reviewer-only material and must not be supplied to a runner.
 

@@ -59,7 +59,7 @@ python3 checks/check_repository.py
 
 The checker reads Git-tracked files, so stage new documentation first. It supports the inline Markdown and HTML link forms used here, not every possible Markdown syntax. Frozen test packet hashes are checked too; that checks file integrity, not model quality.
 
-The [prepared rule comparisons](checks/pattern-test/README.md) cover the percentage rule and pattern template separately. They are NOT RUN; the live skill, template and historical examples are unchanged.
+The [rule comparisons](evaluations/pattern-comparison-2026-11-17/README.md) tested the percentage rule and pattern template separately in 24 isolated Codex trials. Neither candidate met the frozen adoption rule, so the live skill, template and historical examples are unchanged. The review is non-blind and does not establish general reliability.
 
 ## Feedback
 
