@@ -1,5 +1,7 @@
 # Is This Really a Pattern?
 
+> **This tool has moved.** It now lives in [sibling-projects](https://github.com/shaunmarsden/sibling-projects/tree/main/tools/is-this-really-a-pattern) with the rest of the family, and that is where it gets updated. This repo is archived and kept for its history.
+
 <p>
   <img alt="Status: Illustrative examples" src="https://img.shields.io/badge/status-illustrative%20examples-2563eb">
   <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-lightgrey"></a>
